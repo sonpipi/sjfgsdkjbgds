@@ -1,7 +1,7 @@
 var Config = {
   "mysql_host":   '127.0.0.1',
   "mysql_user":   'root',
-  "mysql_pass":   ‘Son1989',
+  "mysql_pass":   'Son1989',
   "mysql_data":   'chatapp_database',
   "app_ip"	  :   '10.142.0.2',
   "app_port"  :   '8080',
