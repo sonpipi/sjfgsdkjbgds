@@ -1,6 +1,7 @@
 var english = require('./english.js');
 var vietnam = require('./vietnam.js');
 var arab = require('./arab.js');
+
 module.exports = class Localizable {
     getLocalMessage(language, msg) {
         var languageString = "";
